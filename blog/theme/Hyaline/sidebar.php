@@ -18,8 +18,11 @@
 		
 		</ul>
 		<?php endif; ?>
+		<div id="counter" align="center"><img border="0" src="http://cb.amazingcounters.com/counter.php?i=2890857&c=8672884">
+		</div>
 	</div>
 	
+<!--
 	<div id="sidebar2">
 		<?php if ( function_exists('dynamic_sidebar') && dynamic_sidebar(2) ) : else : ?>
 		<ul>
@@ -55,3 +58,4 @@
 		</ul>
 		<?php endif; ?>
 	</div>
+-->
