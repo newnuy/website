@@ -18,8 +18,6 @@
 		
 		</ul>
 		<?php endif; ?>
-		<div id="counter" align="center"><img border="0" src="http://cb.amazingcounters.com/counter.php?i=2890857&c=8672884">
-		</div>
 	</div>
 	
 <!--
