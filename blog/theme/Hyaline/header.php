@@ -17,6 +17,8 @@
 <body>
 
 
+<script type="text/javascript" src="/wp-content/themes/Hyaline/my_jQuery.js"></script>
+
 <div id="header"><div id="navcontainer"></div>
 
 <div id="logo"><h1><a href="<?php echo get_settings('home'); ?>/"><?php bloginfo('name'); ?></a></h1><h2><?php bloginfo('description'); ?></h2></div>
