@@ -7,8 +7,12 @@
 				
 			<div class="post" id="post-<?php the_ID(); ?>">
 				<h2><a href="<?php the_permalink() ?>"><?php the_title(); ?></a></h2>
-				<p class="info"><?php the_time('F jS Y') ?> &#183; <a href="<?php the_permalink() ?>">Read More</a> &#183;  <?php comments_popup_link('No Comments', 'Comment(1)', 'Comments(%)'); ?></p>	
-				<?php the_content('Go reading'); ?>			
+				<p class="info"><?php the_time('Y年m月d日') ?> &#183; <a href="<?php the_permalink() ?>">阅读全文</a> &#183;  <?php comments_popup_link('无评论', '评论(1)', '评论(%)'); ?></p></p>
+				<?php if(!is_single()) {
+					the_excerpt();
+				} else {
+					the_content('Go reading');
+				} ?>
 			</div>
 			
 		<?php endwhile; ?>
