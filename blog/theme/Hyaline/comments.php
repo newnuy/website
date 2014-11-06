@@ -20,7 +20,7 @@
 <!-- You can start editing here. -->
 
 <?php if ($comments) : ?>
-	<h2 id="comments" align="center"><?php comments_number('No Responses', 'One Response', '% Responses' );?> a &#8220;<?php the_title(); ?>&#8221;</h2> 
+	<h2 id="comments" align="center"><?php comments_number('无评论', '评论(1)', '评论(%)' );?></h2>
 
 	<ol class="commentlist">
 
@@ -34,7 +34,7 @@
 			<?php endif; ?>
 			<br />
 
-			<small class="commentmetadata"><a href="#comment-<?php comment_ID() ?>" title=""><?php comment_date('F jS, Y') ?> at <?php comment_time() ?></a> <?php edit_comment_link('edit','',''); ?></small>
+			<small class="commentmetadata"><a href="#comment-<?php comment_ID() ?>" title=""><?php comment_date('Y年m月d日') ?><?php comment_time() ?></a> <?php edit_comment_link('edit','',''); ?></small>
 
 			<?php comment_text() ?>
 
@@ -64,7 +64,7 @@
 
 <?php if ('open' == $post->comment_status) : ?>
 
-<h2 id="respond">Leave a comment!</h2>
+<h2 id="respond">评论或留言</h2>
 
 <?php if ( get_option('comment_registration') && !$user_ID ) : ?>
 <p>You must be <a href="<?php echo get_option('siteurl'); ?>/wp-login.php?redirect_to=<?php the_permalink(); ?>">logged in</a> to post a comment.</p>
@@ -79,15 +79,15 @@
 <?php else : ?>
 
 <p><input type="text" name="author" id="author" value="<?php echo $comment_author; ?>" size="22" tabindex="1" />
-<label for="author"><small>Name <?php if ($req) echo "(required)"; ?></small></label>
+<label for="author"><small>Name <?php if ($req) echo "(必填)"; ?></small></label>
 </p>
 
 <p><input type="text" name="email" id="email" value="<?php echo $comment_author_email; ?>" size="22" tabindex="2" />
-<label for="email"><small>Mail (will not be published) <?php if ($req) echo "(required)"; ?></small></label>
+<label for="email"><small>Mail (为您保密) <?php if ($req) echo "(必填)"; ?></small></label>
 </p>
 
 <p><input type="text" name="url" id="url" value="<?php echo $comment_author_url; ?>" size="22" tabindex="3" />
-<label for="url"><small>Website</small></label></p>
+<label for="url"><small>Your Website</small></label></p>
 
 <?php endif; ?>
 
@@ -95,7 +95,7 @@
 
 <p><textarea name="comment" id="comment" cols="100%" rows="10" tabindex="4"></textarea></p>
 
-<p><input name="submit" type="submit" id="submit" tabindex="5" value="Submit Comment" />
+<p><input name="submit" type="submit" id="submit" tabindex="5" value="提交" />
 <input type="hidden" name="comment_post_ID" value="<?php echo $id; ?>" />
 </p>
 <?php do_action('comment_form', $post->ID); ?>

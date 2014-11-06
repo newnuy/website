@@ -23,7 +23,7 @@
 
 <div id="navigation">
 <ul>
-<li><a href="<?php echo get_settings('home'); ?>/">Home</a>
+<li><a href="<?php echo get_settings('home'); ?>/">首页(Home)</a>
 <?php wp_list_pages('sort_column=menu_order&depth=1&title_li='); ?></li>
 </ul>			
 </div>

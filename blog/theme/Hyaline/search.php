@@ -4,13 +4,13 @@
 
 	<?php if (have_posts()) : ?>
 
-		<h2 class="pagetitle">Search Results</h2>
+		<h2 class="pagetitle">搜索结果</h2>
 		
 		
 		<?php while (have_posts()) : the_post(); ?>
 				
 			<div class="archive" id="post-<?php the_ID(); ?>">
-				<?php the_time('F jS Y') ?> &#183; <a href="<?php the_permalink() ?>"><?php the_title(); ?></a><?php comments_popup_link('(0)', '(1)', '(%)'); ?>
+				<?php the_time('Y年m月d日') ?> &#183; <a href="<?php the_permalink() ?>"><?php the_title(); ?></a><?php comments_popup_link('(0)', '(1)', '(%)'); ?>
 			</div>
 	
 		<?php endwhile; ?>
@@ -22,7 +22,7 @@
 	
 	<?php else : ?>
 
-		<h2 class="center">No posts found. Try a different search?</h2>
+		<h2 class="center">无匹配结果~~换关键字试试~~</h2>
 		<?php include (TEMPLATEPATH . '/searchform.php'); ?>
 
 	<?php endif; ?>
