@@ -133,9 +133,9 @@
 </p>
 <blockquote class="q_kai">
 <p>
-人浮浮
-水流流
-往事一去不回头
+人浮浮<br />
+水流流<br />
+往事一去不回头<br />
 劝君努力更上一层楼
 </p>
 </blockquote>
