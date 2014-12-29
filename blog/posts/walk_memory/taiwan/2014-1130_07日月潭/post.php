@@ -31,9 +31,9 @@
 <p>
 吃完茶叶蛋，游船也来了。继续在并不令我惊喜的潭面风光中到达了伊达邵码头。从码头下来，此处就非常热闹了，以邵族原住民区德化社为基础，形成了综合性的伊达邵商圈，各种小吃、工艺品等店铺沿街林立，一处广场上还有邵族歌舞表演。我在一家餐馆要了一份特制邵族面，面里各种食物混杂，但味道却未见融合，实在是不敢恭维。
     <div class="i_center">
-    <a href="/wp-content/uploads/2014/12/sunmoonlake001.jpg" target="_blank"><img src="/wp-content/uploads/2014/12/sunmoonlake001.jpg" width="640" title="" /></a><br />
+    <img src="/wp-content/uploads/2014/12/sunmoonlake001.jpg" width="640" title="" /><br />
     特制邵族面
-    <a href="/wp-content/uploads/2014/12/sunmoonlake002.jpg" target="_blank"><img src="/wp-content/uploads/2014/12/sunmoonlake002.jpg" width="640" title="" /></a><br />
+    <img src="/wp-content/uploads/2014/12/sunmoonlake002.jpg" width="640" title="" /><br />
     伊达邵商圈外围美丽幽静的居所和午后晒太阳的蜘蛛
     </div>
 </p>
@@ -41,9 +41,9 @@
 <p>
 从此地去缆车站，需要经由潭边的布道。十来分钟的路途，潭边碧波粼粼，远处雾气蒸腾，颇为赏心悦目。现在游客远远还没达到最高峰，缆车仍是全数运转，工作人员尽量只将同行的游客安排到同一车厢，我则乐得一人独享可坐8人的车厢。缆车上行，回看湖面，除了更开阔一些外，仍感平平无奇。哪知前方的山头并不是缆车的终点，越过此山头，突然令人眼前一亮！在三面山峰的怀抱中，竟然藏着一处如同仙境的沙洲，与之交错的潭水，如同光泽典雅纯正的碧玉一般。雾气氤氲，极目细看，沙洲上的土壤裂纹纵横，而黄绿间生的植被恰如点缀。后来才知道只有在日月潭水位较低时才能见到沙洲。
     <div class="i_center">
-    <a href="/wp-content/uploads/2014/12/sunmoonlake003.jpg" target="_blank"><img src="/wp-content/uploads/2014/12/sunmoonlake003.jpg" width="640" title="" /></a><br />
+    <img src="/wp-content/uploads/2014/12/sunmoonlake003.jpg" width="640" title="" /><br />
     潭边步道处看到的日月潭
-    <a href="/wp-content/uploads/2014/12/sunmoonlake004.jpg" target="_blank"><img src="/wp-content/uploads/2014/12/sunmoonlake004.jpg" width="640" title="" /></a><br />
+    <img src="/wp-content/uploads/2014/12/sunmoonlake004.jpg" width="640" title="" /><br />
     缆车上看到的日月潭沙洲
     </div>
 </p>

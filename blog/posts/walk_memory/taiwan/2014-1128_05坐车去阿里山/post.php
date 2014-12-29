@@ -11,7 +11,7 @@
 <p>
 又过了十来分钟，阿姗推门进来，对我说今天睡过了。我说，另一位客人和你两位朋友没等到你的早餐，就先走了。阿姗满是懊丧之意，抱怨自己怎么会睡过。阿姗突然说，我们不做早餐了行吗，我去买早餐来吃吧。看来今天没有三明治的口福了，不过几分钟之后阿姗买来的润饼让我眼前一亮。咬开一口，清香满口，豆芽、洋葱、胡萝卜等都切得极细，满满当当地包在润饼皮中。润饼皮虽薄，却极有韧性，全然不会破。阿姗说这个老婆婆的润饼生意很好，总是很多人排队在买。润饼份量很足，再配上阿姗随后递来的咖啡，这顿早餐真是货真价实。
     <div class="i_center">
-    <a href="/wp-content/uploads/2014/12/lukang009.jpg" target="_blank"><img src="/wp-content/uploads/2014/12/lukang009.jpg" width="640" title="" /></a><br />
+    <img src="/wp-content/uploads/2014/12/lukang009.jpg" width="640" title="" /><br />
     润饼
     </div>
 </p>
@@ -67,7 +67,7 @@
 <p>
 很快就到达彰化，然后买了火车票去嘉义。彰化火车站很小，购票厅候车厅几乎就是一间，直接可以看到月台，从买票到上车，只需移步20米。车站虽小，却非常干净安静。
     <div class="i_center">
-    <a href="/wp-content/uploads/2014/12/changhua005.jpg" target="_blank"><img src="/wp-content/uploads/2014/12/changhua005.jpg" width="640" title="" /></a><br />
+    <img src="/wp-content/uploads/2014/12/changhua005.jpg" width="640" title="" /><br />
     彰化火车站
     </div>
 </p>

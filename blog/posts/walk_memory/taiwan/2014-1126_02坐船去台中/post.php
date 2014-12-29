@@ -15,7 +15,7 @@
 <p>
 比预计的迟了一个多小时到达厦门，尚在可控的时间之内，打车来到国际邮轮中心。据出租车师傅说，现在去鼓浪屿也需要从此处的厦鼓码头出发，而不再是之前大家耳熟能详的名为“轮渡”之所在。取了登船卡，于下午5点安检并上船，需7点才开船。
     <div class="i_center">
-    <a href="/wp-content/uploads/2014/11/taichung001.jpg" target="_blank"><img src="/wp-content/uploads/2014/11/taichung001.jpg" width="640" title="" /></a><br />
+    <img src="/wp-content/uploads/2014/11/taichung001.jpg" width="640" title="" /><br />
     中远之星
     </div>
 </p>
@@ -23,7 +23,7 @@
 <p>
 “中远之星”船长186米，宽25.5米，船舱共有8层，可装载150辆汽车、256个标准货柜，及旅客近700人。进入船舱，坐扶手电梯到达第6层，在服务台登记之后，即转入密集的客房区域。我订的是标准房，被分到上下铺四人间，与一位大约40岁的台湾大叔相伴，均是下铺。
     <div class="i_center">
-    <a href="/wp-content/uploads/2014/11/taichung002.jpg" target="_blank"><img src="/wp-content/uploads/2014/11/taichung002.jpg" width="640" title="" /></a><br />
+    <img src="/wp-content/uploads/2014/11/taichung002.jpg" width="640" title="" /><br />
     船舱内标准房区域
     </div>
 </p>
@@ -35,7 +35,7 @@
 <p>
 天色很快暗下来，回看厦门，已是灯火辉煌，在这辉映之下，寂寥的中远之星拔描起航，带着稀稀落落的数十乘客，作别厦门岛内的万家灯火。由静及动，寒风也开始呼呼而起，如果此去不是一夜的航程，而是驶向了茫茫的太平洋，又会是什么样的感觉呢？告别自己熟悉的领域，进入一个未知的环境，怕也是类似的感受吧。
     <div class="i_center">
-    <a href="/wp-content/uploads/2014/11/taichung003.jpg" target="_blank"><img src="/wp-content/uploads/2014/11/taichung003.jpg" width="640" title="" /></a><br />
+    <img src="/wp-content/uploads/2014/11/taichung003.jpg" width="640" title="" /><br />
     起航时回望厦门港
     </div>
 </p>
@@ -51,7 +51,7 @@
 <p>
 此刻已是子时，甲板上寒风猎猎，人都感觉有点被吹得站不住。四下一片黑暗，除了船本身的灯光之外，再不见一丝光亮，黑乎乎的海水透出难以言喻的沉寂。如果白天在海滩上吹着柔风，是感受大海和煦的一面；那此时就是感受大海深沉冰冷的一面了。举头寻月，哪儿有月亮的影子！
     <div class="i_center">
-    <a href="/wp-content/uploads/2014/11/taichung004.jpg" target="_blank"><img src="/wp-content/uploads/2014/11/taichung004.jpg" width="640" title="" /></a><br />
+    <img src="/wp-content/uploads/2014/11/taichung004.jpg" width="640" title="" /><br />
     子时的大海
     </div>
 </p>
@@ -101,7 +101,7 @@
 <p>
 在茫茫大海之中，渺小的我满怀谦卑之心，回到客舱睡下。今天清晨，六点时醒来，披衣去看日出，果然天气不佳。回到床上却难以再入睡，此刻开始感受到船在时快时缓地起伏着，人也渐渐开始进入晕晕的状态，似乎喝了一些米酒后的那种醺醺然的感觉，极是美妙。接下来的一天，身体内都充斥着这种感觉。
     <div class="i_center">
-    <a href="/wp-content/uploads/2014/11/taichung005.jpg" target="_blank"><img src="/wp-content/uploads/2014/11/taichung005.jpg" width="640" title="" /></a><br />
+    <img src="/wp-content/uploads/2014/11/taichung005.jpg" width="640" title="" /><br />
     临近台中港时看到的灯塔
     </div>
 </p>

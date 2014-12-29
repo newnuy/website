@@ -11,7 +11,7 @@
 <p>
 时间已近黄昏，自然要出门去看阿里山的日落，观日落可以在火车站的观景平台上。我出了天主堂的门，沿小道拾级而上，几分钟就到了。太阳虽已西斜，但离沉落远山身后还需要颇长时间，只好在平台上避风处静候。终于，太阳渐远渐暗渐无力，一寸一寸地向下沉，周围云霞染上了昏黄之色。良久，黑黑的远山吞没了无力挣脱的太阳，四下一片寂然，云霞很快也褪去色彩。
     <div class="i_center">
-    <a href="/wp-content/uploads/2014/12/alishan001.jpg" target="_blank"><img src="/wp-content/uploads/2014/12/alishan001.jpg" width="640" title="" /></a><br />
+    <img src="/wp-content/uploads/2014/12/alishan001.jpg" width="640" title="" /><br />
     日落
     </div>
 </p>
@@ -56,9 +56,9 @@
 <p>
 并没有费多少体力即到达了小笠原观景台，在寒风中等待旭日的降生。不妙的是，山尖上有几片云，看起来不厚，却稳稳地遮住了太阳已然射出的光芒。焦急之中，大家一起祈祷云层散去，让朝阳辉映大地。云层倒是我自岿然不动，大家等了又等，终于彻底失望了。此时，从云层上方，突然跃出了期待已久的太阳，给予了观景台上众多游客巨大的鼓舞。然而，光芒四射却并不夺目，似乎已稳居宝座久矣，完全没有喷薄而出的气势。我五年之前看过黄山的日出，胜出眼前的很多。璟却由衷感叹起自己运气很好看到了美丽的日出，言语神情之间犹如意外吃到糖果的小朋友。
     <div class="i_center">
-    <a href="/wp-content/uploads/2014/12/alishan002.jpg" target="_blank"><img src="/wp-content/uploads/2014/12/alishan002.jpg" width="640" title="" /></a><br />
+    <img src="/wp-content/uploads/2014/12/alishan002.jpg" width="640" title="" /><br />
     日出之前雾气缭绕的山谷
-    <a href="/wp-content/uploads/2014/12/alishan003.jpg" target="_blank"><img src="/wp-content/uploads/2014/12/alishan003.jpg" width="640" title="" /></a><br />
+    <img src="/wp-content/uploads/2014/12/alishan003.jpg" width="640" title="" /><br />
     跃出云层的旭日
     </div>
 </p>
@@ -74,7 +74,7 @@
 <p>
 回到天主堂，璟退房回台中。我则抓紧时间睡到10点27分，在退房期限10点半退了房，去走阿里山上尚未走过的观景步道。与我同房的两位男生及其中一位的女朋友邀我同去，结果小情侣在路上闹起别扭，不循路线随意来回。大家都要坐下午1点的车去日月潭，时间就愈发紧张。之前有人和我说，不要与恋人和朋友一起出去玩，不然会难以兼顾。由此来看，真是金玉良言。
     <div class="i_center">
-    <a href="/wp-content/uploads/2014/12/alishan004.jpg" target="_blank"><img src="/wp-content/uploads/2014/12/alishan004.jpg" width="640" title="" /></a><br />
+    <img src="/wp-content/uploads/2014/12/alishan004.jpg" width="640" title="" /><br />
     阿里山林间的火车
     </div>
 </p>

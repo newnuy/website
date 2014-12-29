@@ -19,7 +19,7 @@
 <p>
 Sunber和我已是一年半时间未见了，好在常常在QQ上联络，见面毫无生疏之感。先到的是鹿港附近的台湾玻璃馆，馆内形形色色的玻璃制品，以及许多玻璃工艺品，其中不乏价格低廉的精品。还展出了一些退役的制造玻璃的机器，令人大开眼界。可惜DIY区还未开放，不能亲自体验一回吹玻璃。
     <div class="i_center">
-    <a href="/wp-content/uploads/2014/12/lukang008.jpg" target="_blank"><img src="/wp-content/uploads/2014/12/lukang008.jpg" width="640" title="" /></a><br />
+    <img src="/wp-content/uploads/2014/12/lukang008.jpg" width="640" title="" /><br />
     台湾玻璃馆制造玻璃相关的机器
     </div>
 </p>
@@ -27,7 +27,7 @@ Sunber和我已是一年半时间未见了，好在常常在QQ上联络，见面
 <p>
 从玻璃馆出来，Sunber带我到彰化市的老担阿璋肉圆。这是电影《那些年，我们一起追的女孩》中出现的肉圆店，其导演和原著作者九把刀（柯景腾）正是彰化县人。在电影红遍台湾的同时，这家肉圆老店也名声大噪。咬一口肉圆，确如传说中的外皮Q、内陷饱满，且香菇、竹笋的美味融合其中，配合甜甜的汤汁，店里的食客都赞不绝口。最让我惊艳的是地瓜粉制作的粉皮，又宽又厚，但极为柔嫩却不失韧性，浸润在甜甜的汤汁中，舀起来扯一口就吞了下去，似乎都来不及咀嚼，生怕因咀嚼而让美味流失了。
     <div class="i_center">
-    <a href="/wp-content/uploads/2014/12/changhua001.jpg" target="_blank"><img src="/wp-content/uploads/2014/12/changhua001.jpg" width="640" title="" /></a><br />
+    <img src="/wp-content/uploads/2014/12/changhua001.jpg" width="640" title="" /><br />
     彰化老担阿璋肉圆
     </div>
 </p>
@@ -39,7 +39,7 @@ Sunber深谙饮食之道，请我吃完接下来就是请我喝饮料，邻近�
 <p>
 彰化市东边的八卦山，是彰化的著名景点。山不大，大佛亦不算大，符合台湾的景点大多比较小的规律。但极目向西，整个彰化平原望不到边缘，漫无际涯的城市建筑，到了夜晚，层层铺开的星星灯光会是一道美丽的景致。
     <div class="i_center">
-    <a href="/wp-content/uploads/2014/12/changhua002.jpg" target="_blank"><img src="/wp-content/uploads/2014/12/changhua002.jpg" width="640" title="" /></a><br />
+    <img src="/wp-content/uploads/2014/12/changhua002.jpg" width="640" title="" /><br />
     八卦山西望彰化平原
     </div>
 </p>
@@ -47,7 +47,7 @@ Sunber深谙饮食之道，请我吃完接下来就是请我喝饮料，邻近�
 <p>
 彰化市的扇形车库，Sunber也从未去过，去之前我们即在猜想是一个什么样的地方。甫通过入口，即看到有火车的车头在库中维修，这居然是尚在使用的火车头维修处！待得见到调车转盘，就完全明白扇形车库名字的来源：火车头从铁轨驶上转盘后，转盘转动，调整火车头的方向，然后火车头得以驶入目标库位。12个目标库位以调车转盘为中心，呈放射状形成一座扇形车库。在数学上极为精准的名称，不是圆形，不是弧形，而是扇形。停留没几分钟，我们就目睹了车头入库的过程，运气可谓相当不错。车头沉重，操作必须缓慢谨慎，从驶入转盘到驶出转盘，大约花费了70秒。
     <div class="i_center">
-    <a href="/wp-content/uploads/2014/12/changhua003.jpg" target="_blank"><img src="/wp-content/uploads/2014/12/changhua003.jpg" width="640" title="" /></a><br />
+    <img src="/wp-content/uploads/2014/12/changhua003.jpg" width="640" title="" /><br />
     左上：调车转盘与轨道相接；右上：火车头从转盘入库；下：扇形车库
     </div>
 </p>
@@ -59,7 +59,7 @@ Sunber深谙饮食之道，请我吃完接下来就是请我喝饮料，邻近�
 <p>
 吃完冰淇淋，聊会儿天，就该去吃晚饭了。Sunber说有一家旷（控）肉饭很有名，这家店并不近，向其进发的路上微堵，半小时后终于到了。旷肉饭，筒仔米糕，鲁（滷）白菜，搭配得宜。旷肉饭中那块猪肉的部位极佳，肥瘦恰到好处，毫无油腻之感。滷白菜之“滷”字，意为用浓汁烹调食物，这道滷白菜其貌不扬，奇妙得是吃起来有一些淡淡的咸味、又仿佛有一些淡淡的甜味，不知为何，但觉有着极强的亲和力。
     <div class="i_center">
-    <a href="/wp-content/uploads/2014/12/changhua004.jpg" target="_blank"><img src="/wp-content/uploads/2014/12/changhua004.jpg" width="640" title="" /></a><br />
+    <img src="/wp-content/uploads/2014/12/changhua004.jpg" width="640" title="" /><br />
     旷肉饭，鲁白菜，筒仔米糕（左下）
     </div>
 </p>
