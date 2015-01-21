@@ -26,6 +26,10 @@ Software Engineer, DHC Dept, RealTek (Shenzhen) Co., Ltd.
 2014.08-2014.11<br />
 Software Engineer, AirFly Team.
 </p>
+<p>
+2015.01-<br />
+Software Engineer, Multimedia Dept, TP-LINK Co., Ltd.
+</p>
 </blockquote>
 
 
